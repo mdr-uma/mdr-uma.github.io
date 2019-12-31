@@ -1,11 +1,11 @@
 # Site settings
 author: Uma Manandhar
-title: 
+title: MY FIRST BLOG EVER...
 header-img: img/home-bg.png
 email: um_2003_8@hotmail.com
 copyright_name: Uma Manandhar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First experience on writing blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mdr-uma
