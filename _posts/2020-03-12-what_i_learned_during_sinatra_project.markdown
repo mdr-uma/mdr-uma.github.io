@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "WHAT I LEARNED DURING SINATRA PROJECT..	"
-date:       2020-03-12 20:53:25 +0000
+date:       2020-03-12 16:53:26 -0400
 permalink:  what_i_learned_during_sinatra_project
 ---
 
@@ -20,9 +20,9 @@ By not taking bonus lessons seriously, I think I made a mistake. Sometimes you s
 
 *My Resources* 
 I think resources are a very powerful tool to be a successful developer. You can’t remember everything you learn and that's why you need to know how to find resources when needed. Of course, Google search is developer’s best friend and you can find almost every solution there if you know how to look for it. So, be very specific when you are trying to find a particular resource. Here are a few resources that were very helpful to me for this project:
-1. https://github.com/thebrianemory/corneal  
-2. https://edgeguides.rubyonrails.org/active_record_validations.html#validations-overview
-3. https://www.w3schools.com/html/html_css.asp
+1. [https://github.com/thebrianemory/corneal ](http://) 
+2. [https://edgeguides.rubyonrails.org/active_record_validations.html#validations-overview](http://)
+3. [https://www.w3schools.com/html/html_css.asp](http://)
 
 These are the main topics I wanted to highlight. Beside those, I learned about MVC which stands for models, views, controllers. Models handle ruby logic, controllers handle HTTP requests and connect to our models, and views either take in or display data to our users. Also, the active record is very powerful, which is basically logic behind the model. It  
 * Represents models and their data.
