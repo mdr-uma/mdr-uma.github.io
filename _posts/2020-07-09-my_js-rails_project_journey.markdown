@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "MY JS-RAILS PROJECT JOURNEY"
+title:      "MY Javascript-RAILS PROJECT JOURNEY"
 date:       2020-07-09 12:23:29 -0400
 permalink:  my_js-rails_project_journey
 ---
